@@ -6,7 +6,7 @@
 
 Challenge is to get an image's meta data.
 
-![Image.jpg](ncl23/osint/Meta.jpg) was given.
+![Image.jpg](Meta.jpg) was given.
 
 6 questions given to about information of the metadata of the picture.
 
