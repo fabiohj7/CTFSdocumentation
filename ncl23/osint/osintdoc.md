@@ -6,7 +6,7 @@
 
 Challenge is to get an image's meta data.
 
-![Image.jpg](Meta.jpg) was given.
+<img src="Meta.jpg" alt="image"/>
 
 6 questions given to about information of the metadata of the picture.
 
