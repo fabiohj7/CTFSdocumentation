@@ -6,7 +6,7 @@
 
 Challenge is to get an image's meta data.
 
-<img src="Meta.jpg" alt="image"/>
+<img src="Meta.jpg" alt="image" width="300" height="250"/>
 
 6 questions given to about information of the metadata of the picture.
 
