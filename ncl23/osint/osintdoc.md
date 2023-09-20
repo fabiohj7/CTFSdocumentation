@@ -23,7 +23,7 @@ This is a tool I downloaded to my mac using
 The tool outputs complete information about the image.
 The answers of the question were all in the output.
 
-# Lookup (easy)
+## Lookup (easy)
 
 Answer the questions about DNS
 
@@ -47,7 +47,7 @@ The information related to the record can be found in section 2.
 The DNS record to delegate a DNS zone is described in RFC 1035.
 Answer this challenge requires reading the specification to understand what it means to delegate a DNS zone in order to identify that the DNS record type that is needed to delegate a DNS zone is the one that indicates an authoritative name server.
 
-# Threat intel (easy)
+## Threat intel (easy)
 
 Challenge is to reasearch common security vulnerabilities.
 
@@ -75,4 +75,35 @@ The answer to this question can be found on Wikipedia.
 **Samy is my…**
 The answer to this question can be found on Wikipedia.
 
-# HTTP Headers (easy)
+## HTTP Headers (easy)
+
+Solve 3 question about HTTP headers
+
+---
+
+One more time our this problem can be solved with simple google searches.
+
+## SSL (Medium)
+
+Solve 3 questions about CyberSkyline SSL certificate
+
+---
+
+To find most of these answers you need to go to the lock next to the URL
+search bar. Then you click on the lock logo >> connection is secure >>
+certificate is valid.
+
+From there you can get all the asnwers.
+
+## Barcode (Medium)
+
+Given a barcode, find the flag in it.
+
+---
+
+Once the image was downloaded, I looked for a barcode scanner tool on google.
+I uploaded the image and scanned it.
+
+The barcode format was a _Code 39_ format.
+
+I was able to get the flag by scanning the barcode and getting the output.
