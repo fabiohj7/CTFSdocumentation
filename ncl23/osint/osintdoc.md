@@ -99,6 +99,8 @@ From there you can get all the asnwers.
 
 Given a barcode, find the flag in it.
 
+<img source="Barcode.gif" alt="Barcode"/>
+
 ---
 
 Once the image was downloaded, I looked for a barcode scanner tool on google.
