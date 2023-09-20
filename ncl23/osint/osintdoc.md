@@ -99,7 +99,7 @@ From there you can get all the asnwers.
 
 Given a barcode, find the flag in it.
 
-<img source="Barcode.gif" alt="Barcode"/>
+<img src="Barcode.gif" alt="Barcode"/>
 
 ---
 
