@@ -106,6 +106,9 @@ Given a barcode, find the flag in it.
 Once the image was downloaded, I looked for a barcode scanner tool on google.
 I uploaded the image and scanned it.
 
+The tool used is the following:
+https://cmbdn.cognex.com/free-barcode-scanner
+
 The barcode format was a _Code 39_ format.
 
 I was able to get the flag by scanning the barcode and getting the output.
