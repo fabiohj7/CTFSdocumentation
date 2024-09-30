@@ -1,0 +1,28 @@
+NCL 23 Individual games 10/21/2023
+
+
+OSINT
+
+
+
+CRYPTOGRAPHY
+
+1. For the first batch of cryptography challenges I used Cyberchef. Very simple copying and pasting.
+
+2. For the second batch I used dCode which was also some copying and pasting. Also, some researching trying to find the right cipher.
+
+3. Third batch, the first question shows a cipher that is a https link and has some hex characters in between some other characters.
+
+
+PASSWORD CRACKING
+
+1. For this group of challenges we were given a password, and I just needed to get a MD5 hash for it.
+I just looked for a website that would help me do this.
+
+2. For the second group of challenges I was given a list of hashes and I needed to crack them. I used 'hash-identifier' to get the hash type.
+Then, I used hashcat to get the passwords.
+
+3. Windows hash cracking, for the first two challenges I used a free website that would give me the passwords but it did not work for the last one.
+For the last one I used ophcrack GUI version and added the free fast xp tables to it, from there just wrote down the hash and got the password.
+
+

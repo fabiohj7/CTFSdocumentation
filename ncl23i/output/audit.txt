@@ -1,0 +1,28 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Oct 21 18:23:09 2023
+Invocation: foremost run.jpg 
+Output directory: /Users/fibu/Desktop/CTFs/ncl23i/output
+Configuration file: /opt/homebrew/etc/foremost.conf
+------------------------------------------------------------------
+File: run.jpg
+Start: Sat Oct 21 18:23:09 2023
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      46 KB 	          0 	 
+1:	00000092.jpg 	       1 MB 	      47585 	 
+2:	00002199.jpg 	      59 KB 	    1126047 	 
+3:	00002318.jpg 	       1 MB 	    1187132 	 
+4:	00004424.jpg 	      65 KB 	    2265594 	 
+5:	00004556.jpg 	      34 KB 	    2332732 	 
+Finish: Sat Oct 21 18:23:09 2023
+
+6 FILES EXTRACTED
+	
+jpg:= 6
+------------------------------------------------------------------
+
+Foremost finished at Sat Oct 21 18:23:09 2023
